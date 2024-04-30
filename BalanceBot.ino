@@ -62,7 +62,7 @@ double yawPIDOutput = 0;
 PID pitchPID(&pitchGyroAngle, &pitchPIDOutput, &setpointPitchAngle, PID_PITCH_KP, PID_PITCH_KI, PID_PITCH_KD, DIRECT);
 PID yawPID(&yawGyroRate, &yawPIDOutput, &setpointYawRate, PID_YAW_KP, PID_YAW_KI, PID_YAW_KD, DIRECT);
 
-// Chân điều khiển động cơ
+// Chân điều khiển động cơ 
 int enableMotor1 = 9;
 int motor1Pin1 = 5;
 int motor1Pin2 = 6;
