@@ -31,11 +31,11 @@
 
 
 # 5. Lợi ích và hạn chế của Robot cân bằng:
-## Ưu điểm của robot cân bằng:
+##  - Ưu điểm của robot cân bằng:
  - Giải trí và giáo dục: Có thể được sử dụng như đồ chơi cho trẻ em và người lớn, cũng như là nền tảng để nghiên cứu và phát triển các thuật toán điều khiển, học máy và trí tuệ nhân tạo.
  - Hỗ trợ con người: Có khả năng giao hàng, vận chuyển, hỗ trợ người khuyết tật di chuyển và mang vác đồ vật, cũng như giám sát và an ninh.
  - Ứng dụng trong công nghiệp và dịch vụ: Có thể kiểm tra, bảo trì cơ sở hạ tầng, phục vụ trong nhà hàng, khách sạn, và có tiềm năng ứng dụng trong nông nghiệp, khám phá không gian.
-## Nhược điểm của robot cân bằng:
+## - Nhược điểm của robot cân bằng:
  - Chi phí sản xuất cao do yêu cầu linh kiện và công nghệ phức tạp.
  - Robot có thể gặp khó khăn khi di chuyển qua địa hình gồ ghề hoặc hoạt động trong điều kiện thời tiết khắc nghiệt.
  - Vấn đề an toàn cần được đảm bảo kỹ càng khi Robot cân bằng hoạt động trong môi trường chung với con người.
